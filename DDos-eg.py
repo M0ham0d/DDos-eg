@@ -241,7 +241,7 @@ def dos_3():
 def usage():
     console = Console()
     MARKDOWN=("""
-         	     Klar DDos Script V 1.1            """)
+         	     DDos-eg Script V 1.1            """)
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")   
     
@@ -252,7 +252,7 @@ def usage1():
     console = Console()
     MARKDOWN="""
          	        
-	usage : python KlarDdos.py [-i] [-p] [-l]
+	usage : python DDos-eg.py [-i] [-p] [-l]
         	-h : help
         	-i : server ip
         	-p : port server 
@@ -260,7 +260,7 @@ def usage1():
         	-f : Fake ip
             -d : Hide message
 	example :
-	    python KlarDdos.py -i 10.93.10.111 -p 8080 -l 2"""
+	    python DDos-eg.py -i 10.93.10.111 -p 8080 -l 2"""
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")
     #sys.exit()
@@ -272,7 +272,7 @@ def usage2():
     console = Console()
     MARKDOWN2="""
     
-                        خرا ع اخرائيل.        
+              Mohamed(Mr_Hack)       
     """
     md = Markdown(MARKDOWN2)
     console.print(md,style="bold green")
@@ -283,10 +283,10 @@ def usage2():
 def usage3():
     console = Console()
     MARKDOWN="""
-    Programmer : Dr Data
-    Made in : YEMEN
-    Telegram : https://t.me/kali_linux_ar
-    github : https://github.com/Dr-Data2/KlarDDos
+    Programmer : Mohamed / Dr Data
+    Made in : Egypt / yamen
+    Telegram : https://t.me/M0ham0d00
+    github : https://github.com/M0ham0d
     Tool Information : I was specially made to destroy Israel   
 """
     md = Markdown(MARKDOWN)
